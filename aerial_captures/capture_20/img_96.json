@@ -1,0 +1,67 @@
+{
+  "image": "img_96.jpg",
+  "index": 96,
+  "timestamp_utc": "2026-08-13T08:04:25.308790+00:00",
+  "trigger": "qgroundcontrol",
+  "armed": true,
+  "mode": "AUTO - MISSION",
+  "camera": {
+    "exposure_time_us": 1096,
+    "analogue_gain": 1.0,
+    "auto_exposure": false,
+    "auto_white_balance": true
+  },
+  "telemetry": {
+    "attitude": {
+      "roll_deg": 2.1015143113768158,
+      "pitch_deg": -6.788282971246961,
+      "yaw_deg": 163.154231345712,
+      "rollspeed_dps": -1.1484179752056005,
+      "pitchspeed_dps": -0.1722887337090081,
+      "yawspeed_dps": 1.984839525870777,
+      "age_s": 0.06
+    },
+    "gps": {
+      "fix_type": 4,
+      "satellites_visible": 16,
+      "eph": 0.69,
+      "epv": 1.2,
+      "alt_amsl_m": 28.169,
+      "age_s": 0.41
+    },
+    "battery": {
+      "voltage_v": 65.535,
+      "current_a": null,
+      "remaining_percent": null,
+      "age_s": 0.412
+    },
+    "position": {
+      "lat_deg": 55.4763246,
+      "lon_deg": 10.3264946,
+      "alt_amsl_m": 28.069,
+      "alt_relative_m": 15.078,
+      "vx_ms": 0.0,
+      "vy_ms": -0.07,
+      "vz_ms": 0.09,
+      "heading_deg": 163.08,
+      "age_s": 0.102
+    },
+    "hud": {
+      "airspeed_ms": NaN,
+      "groundspeed_ms": 0.07604704797267914,
+      "heading_deg": 163,
+      "throttle_percent": 50,
+      "alt_amsl_m": 28.069599151611328,
+      "climb_ms": -0.09179029613733292,
+      "age_s": 0.102
+    }
+  },
+  "quality": {
+    "exposure_s": 0.001096,
+    "gsd_m_per_px": 0.0056,
+    "groundspeed_ms": 0.07,
+    "motion_blur_px": 0.01,
+    "rotation_rate_dps": 2.3,
+    "rotation_blur_px": 0.12
+  }
+}
