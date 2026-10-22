@@ -2,6 +2,7 @@
 """Analyze a single capture image and report the objects found in it.
 
 Usage: uv run python analyze.py capture_18/img_3.jpg
+UV runner will set up a virtual environment with the dependencies in requirements.txt, and run this script in it. You can also run it directly if you have the dependencies installed.
 """
 
 import argparse
